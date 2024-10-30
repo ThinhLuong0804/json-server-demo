@@ -1,0 +1,264 @@
+{
+  "categories": [
+    {
+      "id": "50d0806c-e1a2-4285-b8f2-b3fb915b90dc",
+      "name": "Baby",
+      "createdAt": 1730016045531,
+      "updateAt": 1730016045531
+    },
+    {
+      "id": "ec4ddf5f-dc8a-4d86-bc28-be13e87c96c8",
+      "name": "Tools",
+      "createdAt": 1730016045531,
+      "updateAt": 1730016045531
+    },
+    {
+      "id": "bb886141-4d3e-4c2f-9575-6cacc7dc143f",
+      "name": "Outdoors",
+      "createdAt": 1730016045531,
+      "updateAt": 1730016045531
+    },
+    {
+      "id": "55fe68c1-909d-4736-9853-4de014419a65",
+      "name": "Clothing",
+      "createdAt": 1730016045531,
+      "updateAt": 1730016045531
+    },
+    {
+      "id": "94ac8d45-db5c-4703-b4c3-61798d954e57",
+      "name": "Tools",
+      "createdAt": 1730016045531,
+      "updateAt": 1730016045531
+    }
+  ],
+  "products": [
+    {
+      "id": "f1f235ca-02ea-499c-b331-c5b01cc6a396",
+      "name": "Practical Steel Ball",
+      "price": 743.75,
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": 1730016045532,
+      "updatedAt": 1730016045532,
+      "thumbnailUrl": "https://picsum.photos/seed/ugct5kXL/539/815"
+    },
+    {
+      "id": "57966695-f938-4328-baf0-c7d291367ed9",
+      "name": "Small Wooden Mouse",
+      "price": 768.19,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createdAt": 1730016045533,
+      "updatedAt": 1730016045533,
+      "thumbnailUrl": "https://picsum.photos/seed/C4H5hbohSt/2163/1623"
+    },
+    {
+      "id": "c462591e-8183-4a31-af2c-194bbaf11b64",
+      "name": "Practical Concrete Soap",
+      "price": 450.19,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1730016045533,
+      "updatedAt": 1730016045533,
+      "thumbnailUrl": "https://loremflickr.com/2111/281?lock=1516784058414974"
+    },
+    {
+      "id": "18d2e16c-621a-405e-98c3-313ff45bf4da",
+      "name": "Practical Bronze Fish",
+      "price": 543.85,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createdAt": 1730016045533,
+      "updatedAt": 1730016045533,
+      "thumbnailUrl": "https://picsum.photos/seed/3xoei2/1504/755"
+    },
+    {
+      "id": "0764c9ce-82dc-451b-a13d-4adbd538c9f8",
+      "name": "Sleek Plastic Ball",
+      "price": 65.05,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdAt": 1730016045534,
+      "updatedAt": 1730016045534,
+      "thumbnailUrl": "https://loremflickr.com/3514/702?lock=8900331042493149"
+    },
+    {
+      "id": "6c0260d3-b5a5-4a24-b3c2-31562188fab5",
+      "name": "Electronic Wooden Cheese",
+      "price": 951.89,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdAt": 1730016045534,
+      "updatedAt": 1730016045534,
+      "thumbnailUrl": "https://picsum.photos/seed/GmEHR/2724/1655"
+    },
+    {
+      "id": "c50d3d28-bf23-4d0f-8d70-84d4391ee9e2",
+      "name": "Awesome Frozen Keyboard",
+      "price": 294.79,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1730016045534,
+      "updatedAt": 1730016045534,
+      "thumbnailUrl": "https://loremflickr.com/2386/2357?lock=3674802511712697"
+    },
+    {
+      "id": "b0e47d3c-a4be-473a-a594-36ee4cc10fc5",
+      "name": "Awesome Granite Towels",
+      "price": 144.15,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1730016045534,
+      "updatedAt": 1730016045534,
+      "thumbnailUrl": "https://picsum.photos/seed/C0D0o/2794/551"
+    },
+    {
+      "id": "c6f0401a-e2de-4a10-8a81-ec7adea5f596",
+      "name": "Recycled Bronze Car",
+      "price": 921.59,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1730016045534,
+      "updatedAt": 1730016045534,
+      "thumbnailUrl": "https://picsum.photos/seed/dUJ5wdz0/2338/1630"
+    },
+    {
+      "id": "0ce0a9b9-f8f0-4d5b-939c-28735d378083",
+      "name": "Handcrafted Plastic Mouse",
+      "price": 112.39,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdAt": 1730016045535,
+      "updatedAt": 1730016045535,
+      "thumbnailUrl": "https://loremflickr.com/3145/613?lock=6999069492007704"
+    },
+    {
+      "id": "ed0a8d0b-7481-46f6-bf0c-d1e403f5c96a",
+      "name": "Fantastic Granite Soap",
+      "price": 454.35,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1730016045535,
+      "updatedAt": 1730016045535,
+      "thumbnailUrl": "https://loremflickr.com/213/2863?lock=4544491262560844"
+    },
+    {
+      "id": "4c184388-6211-4f84-abd6-d83a8cff5996",
+      "name": "Intelligent Plastic Shoes",
+      "price": 486.35,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1730016045535,
+      "updatedAt": 1730016045535,
+      "thumbnailUrl": "https://picsum.photos/seed/gazTWo/2253/3928"
+    },
+    {
+      "id": "9f60b602-45fd-47f0-9144-36552038ffe2",
+      "name": "Gorgeous Cotton Hat",
+      "price": 483.9,
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": 1730016045535,
+      "updatedAt": 1730016045535,
+      "thumbnailUrl": "https://picsum.photos/seed/d4D6Cq5p/2690/875"
+    },
+    {
+      "id": "e9c3afe0-b85a-4121-8515-043960933758",
+      "name": "Practical Concrete Mouse",
+      "price": 848.89,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdAt": 1730016045535,
+      "updatedAt": 1730016045535,
+      "thumbnailUrl": "https://picsum.photos/seed/NcVkzec1/1740/1911"
+    },
+    {
+      "id": "4a98e629-7db1-42b9-ba17-637aa3dcfdae",
+      "name": "Handcrafted Rubber Sausages",
+      "price": 340.59,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1730016045536,
+      "updatedAt": 1730016045536,
+      "thumbnailUrl": "https://loremflickr.com/2767/553?lock=6941758816438462"
+    },
+    {
+      "id": "586c74fd-01d8-46a0-8ea3-db1e0160a3f2",
+      "name": "Generic Granite Computer",
+      "price": 134.95,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1730016045536,
+      "updatedAt": 1730016045536,
+      "thumbnailUrl": "https://loremflickr.com/703/110?lock=3736300682548487"
+    },
+    {
+      "id": "36ecddd6-f038-4f25-85b5-7430e99fc61d",
+      "name": "Handcrafted Fresh Shirt",
+      "price": 718.6,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1730016045536,
+      "updatedAt": 1730016045536,
+      "thumbnailUrl": "https://loremflickr.com/1874/800?lock=741942806367937"
+    },
+    {
+      "id": "cf1edba5-0238-4b7a-b114-db21b054aed2",
+      "name": "Sleek Rubber Table",
+      "price": 266.9,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1730016045536,
+      "updatedAt": 1730016045536,
+      "thumbnailUrl": "https://loremflickr.com/2721/2498?lock=3372551695348137"
+    },
+    {
+      "id": "6c069eb3-be8c-49ca-878c-40d4d4bb92d7",
+      "name": "Small Cotton Pants",
+      "price": 941.15,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1730016045536,
+      "updatedAt": 1730016045536,
+      "thumbnailUrl": "https://loremflickr.com/3015/509?lock=8583800533231620"
+    },
+    {
+      "id": "31e3e1f8-8db4-41d7-a441-d873294ab474",
+      "name": "Recycled Soft Bacon",
+      "price": 284.49,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1730016045536,
+      "updatedAt": 1730016045536,
+      "thumbnailUrl": "https://picsum.photos/seed/50RxHJk/3073/1485"
+    },
+    {
+      "id": "92ec3e00-ec2b-4626-8a23-a5a5c3d493f0",
+      "name": "Refined Wooden Car",
+      "price": 347.99,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1730016045536,
+      "updatedAt": 1730016045536,
+      "thumbnailUrl": "https://picsum.photos/seed/VtPO2y24/89/3456"
+    },
+    {
+      "id": "25de1069-f5bb-4dc1-8526-a37dc6564e8c",
+      "name": "Modern Soft Bacon",
+      "price": 878.79,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdAt": 1730016045537,
+      "updatedAt": 1730016045537,
+      "thumbnailUrl": "https://picsum.photos/seed/JwRWUPJKGV/3182/3479"
+    },
+    {
+      "id": "b6d6e1a9-164b-431f-b28b-3cafb0f0f57f",
+      "name": "Handmade Soft Chair",
+      "price": 784.39,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1730016045537,
+      "updatedAt": 1730016045537,
+      "thumbnailUrl": "https://loremflickr.com/2604/387?lock=3343400821615492"
+    },
+    {
+      "id": "384497c6-7347-445e-8887-e6beb7df1f81",
+      "name": "Practical Metal Soap",
+      "price": 436.01,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdAt": 1730016045537,
+      "updatedAt": 1730016045537,
+      "thumbnailUrl": "https://loremflickr.com/181/1609?lock=1047228011303756"
+    },
+    {
+      "id": "3b6a4bac-2db9-44b2-aecb-96ddefd3b8c7",
+      "name": "Rustic Soft Keyboard",
+      "price": 536.35,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createdAt": 1730016045537,
+      "updatedAt": 1730016045537,
+      "thumbnailUrl": "https://loremflickr.com/1933/3731?lock=6072876294254812"
+    }
+  ],
+  "profile": {
+    "name": "Po"
+  }
+}
